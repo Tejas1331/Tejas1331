@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image1.jpg.jpg" alt="Tejas Joshi Banner" width="100%" />
+  <img src="https://github.com/Tejas1331/Tejas1331/blob/main/image1.jpg" alt="Tejas Joshi Banner" width="100%" />
 </p>
 <h1>Hi 👋, I'm Tejas Joshi, a Data Generalist.</h1>
 <p>🔍 Data Generalist | Bridging Data Science, Engineering & Analytics for End-to-End Solutions</p>
